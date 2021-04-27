@@ -3,3 +3,5 @@
 - install jest command line
 - install dependencies `npm i`
 - run command `jest` from command line
+
+tests located in index.test.js
